@@ -5,4 +5,4 @@ Target proxy: cloudnotes-http-proxy
 Rule 1
   Host:              any
   Path:              any
-  Redirect to HTTPS: Off
+  Redirect to HTTPS: On
